@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A particular relation of the great victory obtained by Their Majesties forces over the Irish army at Aghrim in Ireland, on the 12th of July, 1691</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43606</idno><idno type="EEBO-CITATION">690986710</idno>
+  <idno type="VID">211648</idno>
+  <idno type="EEBO-PROQUEST">2240859084</idno>
+  
+            <idno type="OCLC"> 690986710</idno>
+            <idno type="OCLC">ocn 690986710</idno>
+            <idno type="STC">Wing P598A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43606)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211648)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2982:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A particular relation of the great victory obtained by Their Majesties forces over the Irish army at Aghrim in Ireland, on the 12th of July, 1691</title>
+                  <author>Richards, Jacob, 1660?-1701. Draught of the incampment of the Irish army.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : plan.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edw. Jones in the Savoy,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The plan has caption title: A draught of the incampment of the Irish army ... and the manner of Their Majesties forces attacking them. By Colonel Richards, first engineer of Ireland, being prenset at the engagement.</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Aughrim, Battle of, Aughrim, Galway, Ireland, 1691 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Campaigns --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Aughrim (Galway, Ireland) --  History --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="report">
+            <pb facs="tcp:211648:1"/>
+            <pb facs="tcp:211648:2"/>
+            <head>A Particular RELATION of the great VICTORY obtained by Their Majesties Forces over the Irish Army, at <hi>Aghrim</hi> in <hi>Ireland,</hi> on the 12th of <hi>July,</hi> 1691.</head>
+            <p>THE 11th instant we encamped on this side <hi>Ballinaslo,</hi> along the River <hi>Suc:</hi> It was once this day resolved to have passed the River, and to march three Miles farther to <hi>Aghrim-</hi>Castle, where the Enemy was encamped, and to at<g ref="char:EOLhyphen"/>tack them, but the great Rain that fell this day, with other Obstacles, as of not perfectly viewing the Roads and Passes thither, occasioned our stay here. This Night Orders were given, that all our Arms should be discharged, and put in good Order; That the whole Army should be at their Arms by two of the Clock the next morning, with<g ref="char:EOLhyphen"/>out either beat of Drum or sound of Trumpet; Powder, Ball, <hi>&amp;c.</hi> was delivered the same night to them.</p>
+            <p>The 12th, According to this Order of last Night, the Army marched through <hi>Ballinasloe,</hi> leaving only at the Camp Two Men of a Company to guard our Tents: After the Right Wing of Horse and Foot had passed, our Artillery, consisting of 30 Field-pieces, march<g ref="char:EOLhyphen"/>ed in three Divisions, <hi>(viz.)</hi> Two Demy-Culvering, Two short 6 Pounders, and Five 3 Pounders, for the Right Wing; Two long 6 Pounders, Two short 6 Pounders, and Five 3 Pounders, for the Left Wing; and Eight fortified 12 Pounders, and Four short <hi>ditto,</hi> for the Center or Body of the Army.</p>
+            <p>It took some time to draw the Army up, which about 11 a Clock at Noon was done, and every thing put in order to attack the Enemy in their Camp: 'Twas resolved to atrack them on the Right, Left, and Center, as the Three Roads in this Paper mark'd <hi>A. B. C.</hi> but the Road <hi>C.</hi> running so much to our Right, and taking so great a Turn about the Bog, with the Consideration of the Enemies Left Wing not extending farther than <hi>D.</hi> (their Right was <hi>E.)</hi> 'twas resolved to attack only by the Road <hi>B.</hi> leading to their Right Wing, and the Road <hi>A.</hi> leading to the Pass; this made some small Alteration in the Order of Battel, as the sending Three Squadrons from the Right Wing of the Se<g ref="char:EOLhyphen"/>cond Line to the Left of the First Line, joyning the Right and Left Guns together for the Left: By 4 in the Afternoon the Duke of <hi>Wirtembergh</hi> marched the Left Wing by the Road <hi>B.</hi> which was much disputed him, the Enemy having all enclosed Ground to defend: At 7 a Clock he gained the Ground <hi>F.</hi> and the Enemy drew down to him; at the same time Four Battalions passed over the Bog, and met with great opposition, the whole Body of the Enemies Foot pressing them very much; Lieutenant-General <hi>Macoy,</hi> Major-General <hi>Talmash,</hi> with the Right Wing of Horse and Foot, pushed through the Pass under the Fire of the Castle; 'twas disputed half an hour, then we gained the Top of the Hill at <hi>H.</hi> which took the Enemy in the Rear, who now begin to be in some Confusion. The Fight lasted about two hours, sometimes with Advantage to the Enemy, they having once pushed the Four Battalions that went over the Bog, but in a quarter of an hour rallied again, which, with the Two Lines, advancing, put the Enemy in such disorder, that they entirely broke, and each made the best of their Heels; the Horse got off best; we pursued them four Miles, with a great Slaughter of the Foot, which in all probability is intirely ruin'd: By Computation, there lies dead upon the Field of Battel upwards of 5000 Men, with about 15000 Arms which they flung away; their whole Artillery, (sent them out of <hi>France,)</hi> consisting of Nine Guns, with all the Tents and Baggage of their Army, is ours. Of their General Officers, <hi>Sarsfeild</hi> is only escaped; <hi>St. Ruth</hi> is killed; Major-General <hi>John Hamilton,</hi> Major-General <hi>Dorington,</hi> Brigadier <hi>Tute,</hi> Lord <hi>Bellew,</hi> Colo<g ref="char:EOLhyphen"/>nel <hi>Connel,</hi> Brigadier <hi>Gordan O-Neile,</hi> Lieutenant-Colonel <hi>Roberts,</hi> Lord <hi>Slane,</hi> Lord <hi>Kilmure,</hi> Lord <hi>Bussin,</hi> Colonel <hi>Butler,</hi> Colonel <hi>Grace,</hi> Major <hi>Lawless,</hi> Colonel <hi>Walter Bourke,</hi> Lieute<g ref="char:EOLhyphen"/>nant-Colonel <hi>John Baggot,</hi> Lieutenant-Colonel <hi>Jo. Braodier,</hi> Major <hi>William Bourke,</hi> Major <hi>Edmund Bulter,</hi> with a great number of inferiour Officers, both of Horse and Foot, are Pri<g ref="char:EOLhyphen"/>soners: We took also a great many Standards and Colours.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Edw. Jones</hi> in the <hi>Savoy,</hi> 1691.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:211648:2"/>
+            <head>
+               <hi>A DRAUGHT<note place="bottom">
+                     <hi>Figure</hi> (1) <hi>is the Irish Army. Figure</hi> (2) <hi>Squadrons of Horse, and Figure</hi> (3) <hi>Battalions of Foot, of Their Majesties Army.</hi>
+                  </note> of the Incampment of the Irish Army at the Bat<g ref="char:EOLhyphen"/>tel near</hi> Aghrim <hi>in</hi> Ireland, <hi>and the manner of Their Majesties Forces Attacking them.</hi> By Colonel <hi>Richards,</hi> First Engineer of <hi>Ireland,</hi> being present at the Engagement.</head>
+            <p>
+               <hi>Published by Authority.</hi>
+            </p>
+            <p>
+               <figure>
+                  <figDesc>map of the site of battle and the location of the armies</figDesc>
+               </figure>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
